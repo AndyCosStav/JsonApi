@@ -1,9 +1,8 @@
-﻿using System;
+﻿using JsonApi.Models;
+using JsonApi.Services.IServices;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using JsonApi.Models;
-using JsonApi.Services.IServices;
 
 namespace JsonApi.Services
 {
